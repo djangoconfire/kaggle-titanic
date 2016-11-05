@@ -1,0 +1,3 @@
+#Add the files that should be ignored while commiting
+*.pyc
+.ipynb_checkpoints
